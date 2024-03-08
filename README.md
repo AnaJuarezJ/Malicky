@@ -1,2 +1,0 @@
-# Malicky
-Malicky
