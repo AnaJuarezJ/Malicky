@@ -103,11 +103,10 @@ header {
 
     h2 span {
       	color:#152099;
-      	font-weight: bold;
-  	font-weight:lighter; 
-  	text-transform: uppercase; 
-  	letter-spacing: 1px;
-  	text-shadow: 2px 2px 4px rgb(178, 92, 26);
+      	font-weight:lighter; /* Hace que el texto se vea más sólido y destacado */
+  text-transform: uppercase; /* Convierte el texto a mayúsculas para un aspecto más formal */
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 4px  #3d459e;
     }
 
     p {
